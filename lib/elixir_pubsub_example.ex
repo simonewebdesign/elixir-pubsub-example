@@ -1,2 +1,0 @@
-defmodule ElixirPubsubExample do
-end
